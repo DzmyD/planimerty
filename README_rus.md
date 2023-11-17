@@ -8,5 +8,5 @@
 * Трапеции.
 
 # Навигация
-* [English version](/README.md)
 * [Параллелограмм](/parallelogram/parallelogram_rus.md)
+* [English version](/README.md)

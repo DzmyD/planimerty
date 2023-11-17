@@ -8,5 +8,5 @@ By simple geometric shapes I mean:
 * Trapezoids.
 
 # Navigation
-* [Русская версия](/README_rus.md)
 * [Parallelogram](/parallelogram/parallelogram.md)
+* [Русская версия](/README_rus.md)
