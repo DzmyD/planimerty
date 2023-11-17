@@ -9,4 +9,5 @@ By simple geometric shapes I mean:
 
 # Navigation
 * [Parallelogram](/parallelogram/parallelogram.md)
+* [ADT Parallelogram](/parallelogram/ADT.md)
 * [Русская версия](/README_rus.md)

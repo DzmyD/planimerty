@@ -9,4 +9,5 @@
 
 # Навигация
 * [Параллелограмм](/parallelogram/parallelogram_rus.md)
+* [ADT Parallelogram](/parallelogram/ADT.md)
 * [English version](/README.md)

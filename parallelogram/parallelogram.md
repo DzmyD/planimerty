@@ -2,6 +2,9 @@
 This figure has 4 sides, where every opposite sides are parallels.
 
 ![the photo of parallelogram with angles A, B, C and D](parallelogramw30.png)
+
+* [ADT Parallelogram](/parallelogram/ADT.md)
+
 # Properties of parallelogram
 * Two pairs of opposite sides are parallel (by definition);
 * Two pairs of opposite sides are equal in length;
