@@ -6,3 +6,7 @@ By simple geometric shapes I mean:
 * Parallelograms (and also their special cases: squares, rhombuses and rectangles);
 * Circles;
 * Trapezoids.
+
+# Navigation
+* [Русская версия](/README_rus.md)
+* [Parallelogram](/parallelogram/parallelogram.md)
