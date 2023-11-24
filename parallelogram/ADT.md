@@ -3,6 +3,8 @@
 > Tris ADT is not completed.
 > You can read more about parallelogram [here](parallelogram.md).
 ## Data
+![the photo of parallelogram with angles A, B, C and D](parallelogramw30.png)
+
 Variables ***ab_side***, ***bc_side***, ***cd_side***, ***ad_side***, ***ac_side*** and ***bd_state*** are real numbers, indicating length and greater than $0$. Variables ***bad_angle***, ***abc_angle***, ***bcd_angle***, ***adc_angle***, ***cad_angle***, ***cab_angle***, ***acb_angle***, ***acd_angle***, ***abd_angle***, ***cbd_angle***, ***adb_angle*** and ***bdc_angle*** are real numbers, indicating degrees, greater than $0$<sup>o</sup> and less $180$<sup>o</sup>. Every variables *can supplement* missing variables by inside functions if it is possible.
 
 Variables ***ab_side_state***, ***bc_side_state***, ***cd_side_state***, ***ad_side_state***, ***ac_side_state***, ***bd_side_state***, ***bad_side_state***, ***abc_angle_state***, ***bcd_angle_state***, ***adc_angle_state***, ***cad_angle_state***, ***cab_angle_state***, ***acb_angle_state***, ***acd_angle_state***, ***abd_angle_state***, ***cbd_angle_state***, ***adb_angle_state*** and ***bdc_angle_state*** are boolean. False, if a user used default values during initialization respectively.
